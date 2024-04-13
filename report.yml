@@ -1,0 +1,11 @@
+name: John
+age: 30
+city: New york
+is_student: false
+grade:
+  - subject: Math
+    grade: A
+  - subject: English
+    grade: A
+  - subect: Science
+    grade: A-
