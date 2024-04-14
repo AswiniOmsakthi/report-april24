@@ -9,3 +9,5 @@ grade:
     grade: I
   - subect: Science
     grade: I-
+  - subject: Computer
+    grade: A
